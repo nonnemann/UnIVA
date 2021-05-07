@@ -16,4 +16,4 @@ With the growing amount of develop Visual Analytics (VA) solutions in various ap
 
 ## Software
 
-- The Analytical Process Constructor [AnyProc](https://nonnemann.github.io/anyproc_public/) is an application for the configuration and execution of analytical toolchains that include indepent Visual Analytics (VA) tools.
+- The [Analytical Process Constructor (AnyProc)](https://nonnemann.github.io/anyproc_public/) is an application for the configuration and execution of analytical toolchains that include indepent Visual Analytics (VA) tools.
